@@ -53,7 +53,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(255,150,255,0.9);
+      background-color: rgba(255,150,0,0.9);
       position: absolute;
       width: 100%;
       height: 100%;
@@ -201,7 +201,6 @@
         
 <div align="center">
 
-        <h1> Please feel free to fill all the details in the form </h1>
   <p> We will get back to you shortly</p></div>
         <div class="item">
           <p>Name<span class="required">*</span></p>
