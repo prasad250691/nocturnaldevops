@@ -38,7 +38,7 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #000;
+      background: #C0C0C0;
       box-shadow: 0 0 25px 0 #1c87c9;
       }
      .banner {
