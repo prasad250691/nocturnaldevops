@@ -21,7 +21,7 @@
       position: absolute;
       margin: 0;
       font-size: 38px;
-      color: #fff;
+      color: #000;
       z-index: 2;
       }
       p.top-info {
@@ -38,7 +38,7 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #FFF;
+      background: #FAEBE7;
       box-shadow: 0 0 25px 0 #1c87c9;
       }
      .banner {
@@ -53,7 +53,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(255,200,155,0.9);
+      background-color: rgba(10,20,15,0.1);
       position: absolute;
       width: 100%;
       height: 100%;
