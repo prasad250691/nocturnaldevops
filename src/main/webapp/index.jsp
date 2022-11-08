@@ -21,7 +21,7 @@
       position: absolute;
       margin: 0;
       font-size: 38px;
-      color: #000;
+      color: #FFF;
       z-index: 2;
       }
       p.top-info {
