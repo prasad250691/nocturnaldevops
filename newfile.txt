@@ -3,3 +3,9 @@ WElcome to Git sessions
 
 Linux and shell
 git and github
+
+Docker
+Kubernetes
+Maven
+Ansible
+Terraform
