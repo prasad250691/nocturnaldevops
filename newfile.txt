@@ -1,2 +1,5 @@
 Hello World
 WElcome to Git sessions
+
+Linux and shell
+git and github
