@@ -22,7 +22,7 @@
       position: absolute;
       margin: 0;
       font-size: 38px;
-      color: #FFF;
+      color: #FAEBE7;
       z-index: 2;
       }
       p.top-info {
@@ -39,8 +39,8 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #COCOCO;
-      box-shadow: 0 0 25px 0 #1c87c9;
+      background: #FFF;
+      box-shadow: 0 0 25px 0 #FAEBE7;
       }
      .banner {
       position: relative;
@@ -54,7 +54,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(200,200,150,0.5);
+      background-color: rgba(200,200,200,0.9);
       position: absolute;
       width: 100%;
       height: 100%;
