@@ -15,14 +15,14 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 14px;
-      color: #4682b4;
+      color: #000;
       line-height: 22px;
       }
       h1 {
       position: absolute;
       margin: 0;
       font-size: 38px;
-      color: #FAEBE7;
+      color: #000;
       z-index: 2;
       }
       p.top-info {
@@ -40,7 +40,7 @@
       padding: 20px;
       border-radius: 6px;
       background: #FFF;
-      box-shadow: 0 0 25px 0 #FAEBE7;
+      box-shadow: 0 0 25px 0 blue;
       }
      .banner {
       position: relative;
@@ -54,7 +54,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(200,200,200,0.9);
+      background-color: rgba(200,0,0,0.9);
       position: absolute;
       width: 100%;
       height: 100%;
