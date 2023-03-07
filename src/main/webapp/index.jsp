@@ -15,7 +15,7 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 16px;
-      color: #BBB;
+      color: #000;
       line-height: 22px;
       }
       h1 {
@@ -39,7 +39,7 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #FFF;
+      background: #BBB;
       box-shadow: 0 0 25px 0 #FFF;
       }
      .banner {
