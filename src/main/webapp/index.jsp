@@ -14,8 +14,8 @@
       margin: 0;
       outline: none;
       font-family: Roboto, Arial, sans-serif;
-      font-size: 20px;
-      color: #000;
+      font-size: 18px;
+      color: red;
       line-height: 22px;
       }
       h1 {
@@ -44,7 +44,7 @@
       }
      .banner {
       position: relative;
-      height: 210px;
+      height: 300px;
       background-image: url("/uploads/media/default/0001/02/fb57ab781c34da322c884532bfec751e843e36fc.jpeg");
       background-size: cover;
       display: flex;
@@ -54,7 +54,7 @@
       }
       .banner::after {
       content: "";
-      background-color: rgba(200,200,200,0.9);
+      background-color: rgba(155,170,120,0.9);
       position: absolute;
       width: 100%;
       height: 100%;
