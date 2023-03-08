@@ -39,12 +39,12 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #FFF;
-      box-shadow: 0 0 25px 0 #FFF;
+      background: #faebe7;
+      box-shadow: 0 0 25px 0 #000;
       }
      .banner {
       position: relative;
-      height: 200px;
+      height: 300px;
       background-image: url("/uploads/media/default/0001/02/fb57ab781c34da322c884532bfec751e843e36fc.jpeg");
       background-size: cover;
       display: flex;
@@ -163,7 +163,7 @@
       background: #1c87c9;
       font-size: 16px;
       font-weight: 700;
-      color: #fff;
+      color: #000;
       cursor: pointer;
       }
       button:hover {
