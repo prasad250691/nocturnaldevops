@@ -39,7 +39,7 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #faebe7;
+      background: #FFF;
       box-shadow: 0 0 25px 0 #000;
       }
      .banner {
