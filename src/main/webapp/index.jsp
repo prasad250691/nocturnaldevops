@@ -15,14 +15,14 @@
       outline: none;
       font-family: Roboto, Arial, sans-serif;
       font-size: 16px;
-      color: #000;
+      color: #FFF;
       line-height: 22px;
       }
       h1 {
       position: absolute;
       margin: 0;
       font-size: 38px;
-      color: #000;
+      color: #FFF;
       z-index: 2;
       }
       p.top-info {
@@ -39,12 +39,12 @@
       width: 100%;
       padding: 20px;
       border-radius: 6px;
-      background: #000;
+      background: #FFF;
       box-shadow: 0 0 25px 0 #000;
       }
      .banner {
       position: relative;
-      height: 600px;
+      height: 200xpx;
       background-image: url("/uploads/media/default/0001/02/fb57ab781c34da322c884532bfec751e843e36fc.jpeg");
       background-size: cover;
       display: flex;
